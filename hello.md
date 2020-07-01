@@ -87,3 +87,6 @@ $ git push
 5. 제목은 명령조로
 6. 본문은 영문 기준 72자마다 줄 바꾸기
 7. 본문은 어떻게보다 무엇을, 왜에 맞춰 작성하기
+
+### Branch 작성
+git checkout -b branch_names
