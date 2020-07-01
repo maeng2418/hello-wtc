@@ -90,3 +90,5 @@ $ git push
 
 ### Branch 작성
 git checkout -b branch_names
+
+### Pull Request
